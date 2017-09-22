@@ -1,4 +1,4 @@
-# PureBDcraft texture patch for Redstone Arsenal
+# PureBDcraft texture patch for Thermal Dynamics
 [BDcraft.net texture patch thread](http://bdcraft.net/community/pbdc-patches-rel/thermal-dynamics-t3867.html).
 
 [Mod page](https://mods.curse.com/mc-mods/minecraft/227443-thermal-dynamics).
